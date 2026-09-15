@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="cqtIP80sVniln0fi9tKd">
+    <mxGraphModel dx="1653" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UhXH6NfpqD_skEYNJiVV-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="166" y="270" />
+              <mxPoint x="166" y="220" />
+            </Array>
+            <mxPoint x="110" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-25" edge="1" parent="1" source="UhXH6NfpqD_skEYNJiVV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UhXH6NfpqD_skEYNJiVV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Khach hang" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="570" width="220" x="200" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="xac thuc tai khoan(uc-04)" vertex="1">
+          <mxGeometry height="80" width="180" x="220" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&#xa;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(27, 29, 30); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;tim kiem mon an(uc-02)&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="180" x="220" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-27" edge="1" parent="1" source="UhXH6NfpqD_skEYNJiVV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UhXH6NfpqD_skEYNJiVV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Dat do an va thanh toan(uc-01)" vertex="1">
+          <mxGeometry height="80" width="180" x="220" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div data-shape-inside=&quot;1&quot; style=&quot;float: left; width: 65px; height: 46px; shape-outside: polygon(61.24% 0.05%, 51.69% 2.26%, 38.16% 6.96%, 26.37% 12.64%, 16.5% 19.13%, 8.68% 26.28%, 3.03% 33.91%, 0.05% 41.88%, 0.05% 50%, 0.05% 58.13%, 3.03% 66.09%, 8.68% 73.72%, 16.5% 80.87%, 26.37% 87.36%, 38.16% 93.04%, 51.69% 97.74%, 61.24% 99.95%, 0.05% 99.95%, 0.05% 0.05%); shape-margin: 2px; pointer-events: none;&quot;&gt;&lt;/div&gt;&lt;div data-shape-inside=&quot;1&quot; style=&quot;float: right; width: 66px; height: 46px; shape-outside: polygon(38.93% 0.05%, 48.33% 2.26%, 61.66% 6.96%, 73.27% 12.64%, 82.99% 19.13%, 90.69% 26.28%, 96.26% 33.91%, 99.63% 41.88%, 99.95% 50%, 99.63% 58.13%, 96.26% 66.09%, 90.69% 73.72%, 82.99% 80.87%, 73.27% 87.36%, 61.66% 93.04%, 48.33% 97.74%, 38.93% 99.95%, 99.95% 99.95%, 99.95% 0.05%); shape-margin: 2px; pointer-events: none;&quot;&gt;&lt;/div&gt;&lt;div data-shape-inside=&quot;1&quot; style=&quot;height: 9px; pointer-events: none;&quot;&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ap ma giam gia(uc-03)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="220" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-28" edge="1" parent="1" source="UhXH6NfpqD_skEYNJiVV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UhXH6NfpqD_skEYNJiVV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div data-shape-inside=&quot;1&quot; style=&quot;float: left; width: 65px; height: 46px; shape-outside: polygon(61.24% 0.05%, 51.69% 2.26%, 38.16% 6.96%, 26.37% 12.64%, 16.5% 19.13%, 8.68% 26.28%, 3.03% 33.91%, 0.05% 41.88%, 0.05% 50%, 0.05% 58.13%, 3.03% 66.09%, 8.68% 73.72%, 16.5% 80.87%, 26.37% 87.36%, 38.16% 93.04%, 51.69% 97.74%, 61.24% 99.95%, 0.05% 99.95%, 0.05% 0.05%); shape-margin: 2px; pointer-events: none;&quot;&gt;&lt;/div&gt;&lt;div data-shape-inside=&quot;1&quot; style=&quot;float: right; width: 66px; height: 46px; shape-outside: polygon(38.93% 0.05%, 48.33% 2.26%, 61.66% 6.96%, 73.27% 12.64%, 82.99% 19.13%, 90.69% 26.28%, 96.26% 33.91%, 99.63% 41.88%, 99.95% 50%, 99.63% 58.13%, 96.26% 66.09%, 90.69% 73.72%, 82.99% 80.87%, 73.27% 87.36%, 61.66% 93.04%, 48.33% 97.74%, 38.93% 99.95%, 99.95% 99.95%, 99.95% 0.05%); shape-margin: 2px; pointer-events: none;&quot;&gt;&lt;/div&gt;&lt;div data-shape-inside=&quot;1&quot; style=&quot;height: 9px; pointer-events: none;&quot;&gt;&lt;/div&gt;dieu phoi don hang(uc-05)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="180" x="220" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="cap nhat trang thai don hang(uc-06)" vertex="1">
+          <mxGeometry height="80" width="180" x="220" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-19" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="cong momo" vertex="1">
+          <mxGeometry height="60" width="30" x="500" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-20" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="may chu sms" vertex="1">
+          <mxGeometry height="60" width="30" x="520" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-29" edge="1" parent="1" source="UhXH6NfpqD_skEYNJiVV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UhXH6NfpqD_skEYNJiVV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-21" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="shipper&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="UhXH6NfpqD_skEYNJiVV-26" edge="1" parent="1" source="UhXH6NfpqD_skEYNJiVV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" target="UhXH6NfpqD_skEYNJiVV-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="270" />
+              <mxPoint x="150" y="408" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
